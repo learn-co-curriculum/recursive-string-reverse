@@ -1,8 +1,8 @@
-# Day 1: Reverse a String
+# Bonus Algorithm: Recursive Reverse a String
 
 **Fork and then clone me!**
 
-For this task, you'll need to reverse a string. Your method will receive one argument, a string, and be expected to output that string with its letters in reverse order.
+For this task, you'll need to reverse a string...**recursively**! Your method will receive one argument, a string, and be expected to output that string with its letters in reverse order.
 
 ```
 Input: "hi"
@@ -13,8 +13,6 @@ Output: "ybabtac"
 ```
 
 **Do not call any type of built-in reverse method!**
-
-Please solve the problem using iteration.
 
 Use the language of your choosing. We've included starter files for some languages where you can pseudocode, explain your solution and code.
 
